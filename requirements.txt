@@ -1,0 +1,6 @@
+numpy==1.14.6
+pylint==2.11.1
+pytest==6.2.5
+mypy==0.910
+ipdb==0.13.9
+black==22.6.0
